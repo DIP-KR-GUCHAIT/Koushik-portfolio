@@ -156,7 +156,7 @@ p {
     border: none;
     box-sizing: border-box;
 
-    background-image: url(/koushik/img/4.jpg);
+    background-image: url(4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -187,7 +187,7 @@ p {
     max-width: 50%;
     height: 100vh;
 
-    background-image: url(/koushik/img/5.jpg);
+    background-image: url(5.jpg);
     background-repeat: no-repeat;
     background-position: center left;
     background-size: cover;
@@ -259,7 +259,7 @@ p {
     box-sizing: border-box;
     background: rgb(255, 0, 0);
 
-    background-image: url(/koushik/img/7.jpg);
+    background-image: url(7.jpg);
     background-repeat: no-repeat;
     background-position: center left;
     background-size: cover;
@@ -279,7 +279,7 @@ p {
     box-sizing: border-box;
     background: rgb(255, 0, 0);
 
-    background-image: url(/koushik/img/2.jpg);
+    background-image: url(2.jpg);
     background-repeat: no-repeat;
     background-position: center left;
     background-size: cover;
