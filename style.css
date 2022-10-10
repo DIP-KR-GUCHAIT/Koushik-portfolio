@@ -376,7 +376,7 @@ footer {
 
     #header-flex>.hf-1 {
         width: 100vw;
-        height: 100vh;
+        height: 100%;
         margin-top: 5rem;
     }
 
@@ -427,9 +427,8 @@ footer {
     }
 
     .mdtd-2 {
-        width: 100%;
         max-width: 100%;
-        height: auto;
+        height: 100%;
         padding: 5rem 0;
     }
     .f-div {
@@ -483,5 +482,9 @@ footer {
             padding: 1rem;
             border-radius: 0px 0px 50px 0px;
             box-shadow: none;
+        }
+        .mdtd-2>img {
+        width: 100%;
+        max-width: 90%;
         }
     }
