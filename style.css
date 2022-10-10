@@ -452,7 +452,9 @@ footer {
             font-size: 1rem;
         }
 
-
+        .div-2-first-heading {
+            margin-bottom: 1rem;
+        }
         .logo {
             display: none;
         }
