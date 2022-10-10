@@ -480,4 +480,9 @@ footer {
             border-radius: 0px 0px 50px 0px;
             box-shadow: none;
         }
+        
+        .hf-1-d-1 {
+            margin-top: 5rem;
+        }
+}
     }
