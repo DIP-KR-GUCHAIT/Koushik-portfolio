@@ -376,7 +376,7 @@ footer {
 
     #header-flex>.hf-1 {
         width: 100vw;
-        height: auto;
+        height: 100vh;
         margin-top: 5rem;
     }
 
